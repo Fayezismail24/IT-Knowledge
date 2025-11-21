@@ -1,5 +1,3 @@
-DNS Records Explained (Aesthetic Markdown Guide)
-
 DNS records are the settings that tell the internet how your domain behaves.
 Think of them as instructions inside your domain’s control panel.
 
@@ -139,4 +137,5 @@ NS	DNS provider
 PTR	Reverse DNS (IP → domain)
 SRV	Service with port/protocol
 SOA	Administrative info
+
 CAA	SSL authority control
