@@ -27,10 +27,25 @@ Cable types are essential for determining how data will be transmitted within a 
 - **Usage**: Commonly used for broadband internet connections and cable television.
 - **Speeds**: Varies, but can support up to 10 Gbps in modern configurations.
 
+
+
 ## 3. Fiber Optic Cable
-- **Single-mode fiber (SMF)**: Transmits data using a single light path, suitable for long-distance communication (up to 100 km or more).
-- **Multi-mode fiber (MMF)**: Uses multiple light paths for shorter-distance communication (up to 2 km).
-- **Advantages**: Offers extremely high bandwidth and very low signal loss, ideal for high-speed, long-distance data transmission.
+Fiber optic cables are a crucial technology for high-speed, long-distance data transmission. They come in two primary types: **Single-Mode Fiber (SMF)** and **Multi-Mode Fiber (MMF)**.
+
+### Single-Mode Fiber (SMF)
+- **Definition**: Uses a single light path or "mode" to transmit data. The core of the fiber is much smaller (around 8-10 microns in diameter), allowing the light to travel straight, which reduces dispersion and signal loss over long distances.
+- **Usage**: Ideal for long-distance communication, such as inter-city or global data transmission.
+- **Distance**: Can transmit data over distances of up to 100 km (or more) without significant signal degradation.
+- **Advantages**: Higher bandwidth, low signal attenuation, and long-distance capability.
+- **Disadvantages**: More expensive and requires precise alignment.
+
+### Multi-Mode Fiber (MMF)
+- **Definition**: Uses multiple light paths or "modes" to transmit data. The core of the fiber is larger (50 to 100 microns in diameter), which allows light to bounce and take multiple paths.
+- **Usage**: Primarily used for shorter distances, such as within buildings or campus networks.
+- **Distance**: Effective up to 2 km, depending on the bandwidth and speed.
+- **Advantages**: Lower cost compared to SMF, easier to install.
+- **Disadvantages**: Higher signal loss and limited range due to modal dispersion.
+
 
 ## 4. Power over Ethernet (PoE) Cables
 - **Definition**: Ethernet cables that also transmit electrical power along with data.
