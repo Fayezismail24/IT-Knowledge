@@ -45,6 +45,11 @@ Network measurements refer to the assessment of various parameters related to th
 - **Definition**: The time taken to establish a connection between two devices on the network.
 - **Purpose**: Measures the responsiveness of network connections.
 
+## 10. Goodput
+- **Definition**: The amount of useful data transmitted over the network, excluding overhead (like headers and retransmitted packets).
+- **Measurement**: Measured in bits per second (bps).
+- **Purpose**: Goodput represents the real rate of successful data delivery and is a more accurate reflection of actual network performance than throughput, as it excludes overhead and retransmissions.
+
 ## Tools for Network Measurements
 - **Wireshark**
 - **Ping**
