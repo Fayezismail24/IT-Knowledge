@@ -1,3 +1,5 @@
+
+```markdown
 # Network Measurements
 
 Network measurements refer to the assessment of various parameters related to the performance, health, and efficiency of a network. These measurements are critical for monitoring and optimizing network performance.
@@ -6,6 +8,11 @@ Network measurements refer to the assessment of various parameters related to th
 - **Definition**: The maximum data transfer rate of a network.
 - **Measurement**: Typically measured in bits per second (bps).
 - **Purpose**: Indicates how much data can be transmitted over a network in a given period.
+
+### Speed Standards
+- **10 Mbps** (10 Megabits per second) – This is the speed for **10BASE-T Ethernet**, the slowest standard.
+- **100 Mbps** (100 Megabits per second) – This is the speed for **100BASE-T Ethernet**, also known as **Fast Ethernet**.
+- **1000 Mbps** (1000 Megabits per second) – This is the speed for **1000BASE-T Ethernet**, also known as **Gigabit Ethernet**. This is the most common speed for modern Ethernet connections.
 
 ## 2. Latency
 - **Definition**: The delay before a transfer of data begins after an instruction.
@@ -57,3 +64,6 @@ Network measurements refer to the assessment of various parameters related to th
 - **NetFlow**
 
 Monitoring and analyzing these measurements help in troubleshooting and maintaining optimal network performance.
+```
+
+This update includes the **10/100/1000 Mbps** network speeds and their corresponding **Ethernet standards** under the **Bandwidth** section, as part of the network measurements.
