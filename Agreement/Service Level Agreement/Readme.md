@@ -12,4 +12,3 @@
 | **Enforcement**         | - **Monitoring Tools**: To track SLA performance <br> - **Reports**: Regular performance reports <br> - **Remediation**: Compensation for unmet SLAs, such as discounts or credits |
 ```
 
-This is the table structure formatted in **Markdown**. You can paste it into a Markdown editor to see the rendered table.
