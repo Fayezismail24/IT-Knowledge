@@ -10,5 +10,3 @@
 | **Challenges**          | - Overly Strict SLAs <br> - Ambiguity in Terms <br> - Higher Cost of Service |
 | **Common SLA Metrics**  | - **Network Uptime**: 99.9% uptime <br> - **Response Time for Support**: 1 hour for critical, 24 hours for non-critical <br> - **Resolution Time**: 4 hours for critical, 48 hours for non-critical <br> - **Data Backup Frequency**: Daily/Weekly |
 | **Enforcement**         | - **Monitoring Tools**: To track SLA performance <br> - **Reports**: Regular performance reports <br> - **Remediation**: Compensation for unmet SLAs, such as discounts or credits |
-```
-
